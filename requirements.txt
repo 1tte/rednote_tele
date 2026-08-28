@@ -1,1 +1,4 @@
-
+aiogram
+aiohttp
+requests
+beautifulsoup4
